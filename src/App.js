@@ -4,7 +4,7 @@ import './App.css';
 import {AiOutlineCloudUpload} from 'react-icons/ai'
 import {useDropzone} from 'react-dropzone';
 import Plagiarism from './pages/Plagiarism';
-import Result from './Result';
+import Result from './pages/Result.jsx';
 
 function App() {
   
