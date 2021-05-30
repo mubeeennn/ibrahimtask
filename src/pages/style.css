@@ -1,0 +1,25 @@
+.App{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-right: 2px solid #94a0a8;
+    border-left: 2px solid #94a0a8;
+    height:98vh;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 95%;
+    border:5px dashed #94a0a8;
+    padding:10px;
+}
+ .borderContainer{
+    border:8px solid #f7f8fa;
+    
+} 
+.grey{
+    color:#94a0a8;
+}
